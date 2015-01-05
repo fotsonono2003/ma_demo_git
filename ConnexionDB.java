@@ -1,4 +1,7 @@
 
+/*
+author thierry
+*/
 package test;
 
 import java.sql.Connection;
