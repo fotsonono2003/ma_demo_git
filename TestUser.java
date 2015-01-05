@@ -4,7 +4,7 @@ import java.util.Date;
 import technique.*;
 /**
  *
- * @author Ibtihel
+ * @author Thierry
  */
 public class TestUser
 {
